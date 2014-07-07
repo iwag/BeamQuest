@@ -10,3 +10,5 @@ deploy:
   app: beamquest-dev
   on:
     repo: iwag/BeamQuest
+after_success:
+  - heroku labs:enable websockets 
