@@ -7,6 +7,6 @@ deploy:
   provider: heroku
   api_key:
     secure: eHPCNRCYBc6WkXefKnfCJRDhzTud2WTc9m6NxrFYLeIHhy7JyD1AmajcilZUXzcVInOLqo3xHuOXM2dn2wEJTI4NsZyB20EtWLqk3J4CngaHK0vQESiLDYmnyrnTm757wns7D/AqGn5nPirLtySMsHY0vMK905N+wDexgxtelbk=
-  app: beamquest-iwag
+  app: beamquest-dev
   on:
     repo: iwag/BeamQuest
